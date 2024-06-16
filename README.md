@@ -40,6 +40,3 @@
     <li>You can add new features, fix bugs, or improve documentation.</li>
   </ul>
 
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License. For more details, see the <a href="LICENSE">LICENSE</a> file.</p>
